@@ -5,6 +5,7 @@ import string
 import re #regular expression (core python function)
 
 #git change
+# git change 2
 
 def remove_punct(text):
     """This function is used to remove all punctuation
