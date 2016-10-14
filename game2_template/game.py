@@ -54,7 +54,7 @@ def print_room_items(room):
 
     """
     if str(list_of_items(room["items"])) != '':
-        print("There is " + list_of_items(room["items"]) + " here." + "\n")
+        print("There is " + list_of_items(room["items"]) + "here." + "\n")
 
 
 def print_inventory_items(items):
